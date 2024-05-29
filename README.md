@@ -61,6 +61,6 @@ By following these steps, you should have a local instance of DevEx Tools runnin
 - [@imadrig](https://github.com/imadrig) - Developer
 - [@olegklyufinskyy](https://github.com/olegklyufinskyy) - Developer
 - [@Stevensauro](https://github.com/Stevensauro) - Developer
-- - [@jasonavecilla](https://github.com/jasonavecilla) - Developer
+- [@jasonavecilla](https://github.com/jasonavecilla) - Developer
 
 
