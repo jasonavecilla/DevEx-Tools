@@ -1,4 +1,4 @@
-# DevEx Tools
+# DevEx Tools1
 
 Welcome to DevEx Tools, a comprehensive suite of utilities designed to enhance the experience of front-end developers. Our web app offers seven distinct tools aimed at streamlining your workflow and boosting your productivity. Whether you're adjusting styles with a color picker, generating CSS for gradients and shadows, looking for the perfect font, finding special characters, creating HTML tables, or converting CSS units with precision, DevEx Tools has you covered.
 
