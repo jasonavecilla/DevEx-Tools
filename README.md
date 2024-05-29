@@ -18,12 +18,21 @@ Each tool provides handy code snippets for seamless integration into your projec
 
 ## App Experience
 
-Visit DevEx Tools online [here](https://devex.tools/) to experience the tools firsthand. Below, you will find screenshots of the Gradient Maker page.
+ Below, you will find screenshots of the Gradient Maker page.
 
-![Gradient Maker Example](https://github.com/chingu-voyages/v47-tier2-team-17/assets/90486946/5b1b7ff3-7dc0-47d7-b775-716c7375ecd7)
+![Gradient Maker Example](https://scontent.fmnl33-3.fna.fbcdn.net/v/t1.15752-9/438158354_374954165567242_6115050966387327467_n.png?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ubGX2PyxJ7wQ7kNvgGNWmjm&_nc_ht=scontent.fmnl33-3.fna&oh=03_Q7cD1QERcoG3DWODoxon2wrn83rOxyCGseV-lxrwwfkMD0gm4Q&oe=667E8116)
 
-![Code Snippet & Collection Example](https://github.com/chingu-voyages/v47-tier2-team-17/assets/90486946/2132b1e7-c3d5-45a5-9f51-7ee4fe797e7d)
+![ Color Picker](https://scontent.fmnl33-5.fna.fbcdn.net/v/t1.15752-9/441085864_968974027960677_3141359813485709368_n.png?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=VLnTthuSJQkQ7kNvgElJOK1&_nc_ht=scontent.fmnl33-5.fna&oh=03_Q7cD1QH881mM9nUvQ5VlEpkbvXTvjiL0oFg9HhRi-yLUrEIQLw&oe=667EA2CD)
 
+![Shadow Creator](https://scontent.fmnl33-6.fna.fbcdn.net/v/t1.15752-9/438137400_414542104882754_8689594913283079239_n.png?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Sn2REilUhKoQ7kNvgFC1ilG&_nc_ht=scontent.fmnl33-6.fna&oh=03_Q7cD1QFtvgYWisdx1SgDXoV235zRMdy-YC4NfezrsmjP2X8r5A&oe=667E8FD1)
+
+![Character Finder](https://scontent.fmnl33-5.fna.fbcdn.net/v/t1.15752-9/441093584_404426502561606_4112219847263507903_n.png?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=5Z2eJ9G3v1IQ7kNvgES6v8_&_nc_ht=scontent.fmnl33-5.fna&oh=03_Q7cD1QFXctEMnqylKsJYgRc0c7dOH3mQEPRldZSw4EmYyDIKfg&oe=667E9179)
+
+![Table Generator](https://scontent.fmnl33-2.fna.fbcdn.net/v/t1.15752-9/436589488_1955414028225124_5241200826604116542_n.png?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ed6pK_wzBmwQ7kNvgH6YVpE&_nc_ht=scontent.fmnl33-2.fna&oh=03_Q7cD1QFPLCDj0OsXsCimz2Ym8RrHoR1Qy4W6pUeoZ7sKEy_ZvQ&oe=667EA009)
+
+![Font Viewer](https://scontent.fmnl33-1.fna.fbcdn.net/v/t1.15752-9/438171809_1839405016557652_4302008864830304383_n.png?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=8TN4KFHIKRUQ7kNvgEX783t&_nc_ht=scontent.fmnl33-1.fna&oh=03_Q7cD1QHOjCZm77Mwq-Q_l6e3m0cj3vl3N5IhKhQnvLG11G0n9A&oe=667E7BC3)
+
+![Code Snippet & Collection Example](https://scontent.fmnl33-6.fna.fbcdn.net/v/t1.15752-9/441081842_299328829908943_4109032398151832203_n.png?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=wce-A1MGjtIQ7kNvgFPoODa&_nc_ht=scontent.fmnl33-6.fna&oh=03_Q7cD1QESCON0zq1TJMHAuRC0_Mg_aZ3GxMjCt-HYFkXvx12yJQ&oe=667E7745)
 # Tech Stack
 
 - React
