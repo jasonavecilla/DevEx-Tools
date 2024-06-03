@@ -1,4 +1,4 @@
-# DevEx Tools
+# DevEx
 
 Welcome to DevEx Tools, a comprehensive suite of utilities designed to enhance the experience of front-end developers. Our web app offers seven distinct tools aimed at streamlining your workflow and boosting your productivity. Whether you're adjusting styles with a color picker, generating CSS for gradients and shadows, looking for the perfect font, finding special characters, creating HTML tables, or converting CSS units with precision, DevEx Tools has you covered.
 
@@ -20,17 +20,19 @@ Each tool provides handy code snippets for seamless integration into your projec
 
  Below, you will find screenshots of the Gradient Maker page.
 
-![Gradient Maker Example](https://scontent.fmnl33-3.fna.fbcdn.net/v/t1.15752-9/438158354_374954165567242_6115050966387327467_n.png?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ubGX2PyxJ7wQ7kNvgGNWmjm&_nc_ht=scontent.fmnl33-3.fna&oh=03_Q7cD1QERcoG3DWODoxon2wrn83rOxyCGseV-lxrwwfkMD0gm4Q&oe=667E8116)
+![Gradient Maker Example](https://scontent.fmnl3-2.fna.fbcdn.net/v/t1.15752-9/436561618_2222377141436655_3387557466532526956_n.png?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFTIEnmwqPX1I-861fOyL8IXqxkTGOOr2derGRMY46vZzD4-1zFgRBLKmvI5Ohln_kSTYCvhGw1Ehotz0fICmtZ&_nc_ohc=g0dMLjCQRXQQ7kNvgEIkJ-8&_nc_ht=scontent.fmnl3-2.fna&oh=03_Q7cD1QGe8sDMW9Z3Skne7Q6wcgFJgrrz652xIZBz3XkQDwQJKw&oe=66852E6B)
 
-![ Color Picker](https://scontent.fmnl33-5.fna.fbcdn.net/v/t1.15752-9/441085864_968974027960677_3141359813485709368_n.png?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=VLnTthuSJQkQ7kNvgElJOK1&_nc_ht=scontent.fmnl33-5.fna&oh=03_Q7cD1QH881mM9nUvQ5VlEpkbvXTvjiL0oFg9HhRi-yLUrEIQLw&oe=667EA2CD)
+![ Color Picker](https://scontent.fmnl37-2.fna.fbcdn.net/v/t1.15752-9/441841165_1576621022902182_2494851019504575053_n.png?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHYV8ujQgCCvSCiYMFfnZGA06lPsk_qxT7TqU-yT-rFPrg0XVcScydtg_ozFgIA0TS_je-s-TD97a0fzrnopuVh&_nc_ohc=e56tfGcS6UYQ7kNvgENlrH7&_nc_ht=scontent.fmnl37-2.fna&oh=03_Q7cD1QEAAOIIaHBBp-a4zKGUkdYr1LTXxjIEP8Tgkenj8-05Pw&oe=66851071)
 
-![Shadow Creator](https://scontent.fmnl33-6.fna.fbcdn.net/v/t1.15752-9/438137400_414542104882754_8689594913283079239_n.png?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Sn2REilUhKoQ7kNvgFC1ilG&_nc_ht=scontent.fmnl33-6.fna&oh=03_Q7cD1QFtvgYWisdx1SgDXoV235zRMdy-YC4NfezrsmjP2X8r5A&oe=667E8FD1)
+![Shadow Creator](https://scontent.fmnl3-4.fna.fbcdn.net/v/t1.15752-9/441945383_435624592735998_4729791371817552086_n.png?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHvbmmtywFE0d0NGhFau0DmDCkswkjx49YMKSzCSPHj1iezwpFtoSTSdLDSuyMdisCxsj68R_pfxk5XTNMFCkpH&_nc_ohc=2Brj0t1Dq8sQ7kNvgGDe-NQ&_nc_ht=scontent.fmnl3-4.fna&oh=03_Q7cD1QFT_IqjERWANhtamfZb9JlAXGArLp3cPY_5JKZ6KcblQQ&oe=668533D0)
 
-![Character Finder](https://scontent.fmnl33-5.fna.fbcdn.net/v/t1.15752-9/441093584_404426502561606_4112219847263507903_n.png?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=5Z2eJ9G3v1IQ7kNvgES6v8_&_nc_ht=scontent.fmnl33-5.fna&oh=03_Q7cD1QFXctEMnqylKsJYgRc0c7dOH3mQEPRldZSw4EmYyDIKfg&oe=667E9179)
+![Character Finder](https://scontent.fmnl3-4.fna.fbcdn.net/v/t1.15752-9/436446874_862272062612139_6605742469348665046_n.png?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGp1EtJDTrkFSZZlAX8cv5_hyIxrBAR5nGHIjGsEBHmcfKYtNqp-dmTikofP7l9Vr2bxq4RxhrfkZjp2pr270rt&_nc_ohc=VYU6iwM3hg4Q7kNvgHb2PA9&_nc_ht=scontent.fmnl3-4.fna&oh=03_Q7cD1QFPdQecsiho9GDxsC0mK56Cke0aOxZSspiF1VzRmlkOtg&oe=66851FEA)
 
-![Table Generator](https://scontent.fmnl33-2.fna.fbcdn.net/v/t1.15752-9/436589488_1955414028225124_5241200826604116542_n.png?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ed6pK_wzBmwQ7kNvgH6YVpE&_nc_ht=scontent.fmnl33-2.fna&oh=03_Q7cD1QFPLCDj0OsXsCimz2Ym8RrHoR1Qy4W6pUeoZ7sKEy_ZvQ&oe=667EA009)
+![Table Generator](https://scontent.fmnl37-2.fna.fbcdn.net/v/t1.15752-9/441239484_7665478816892274_5832298875474332447_n.png?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGrwSg2rBIVhXeCTf15n9fMMnzej4ITY2YyfN6PghNjZm76NFaFf8OtHaAnoI08qppTkzoN8s9q8YYHVtnp5wyi&_nc_ohc=Cac8j65wX0AQ7kNvgFWzBYH&_nc_ht=scontent.fmnl37-2.fna&oh=03_Q7cD1QHNX2ZZXErTqNEavjTA9W419EqAetdkEZdAUmB_smQC3Q&oe=66853756)
 
-![Font Viewer](https://scontent.fmnl33-1.fna.fbcdn.net/v/t1.15752-9/438171809_1839405016557652_4302008864830304383_n.png?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=8TN4KFHIKRUQ7kNvgEX783t&_nc_ht=scontent.fmnl33-1.fna&oh=03_Q7cD1QHOjCZm77Mwq-Q_l6e3m0cj3vl3N5IhKhQnvLG11G0n9A&oe=667E7BC3)
+![Font Viewer](https://scontent.fmnl3-3.fna.fbcdn.net/v/t1.15752-9/436730699_979996310457520_1689069071508753511_n.png?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHbcZObo2Qcc5160aiUZ8NwaFx3JtUfuN5oXHcm1R-43kdsdCmZP5bexjFiz1nYzqk0HBtnO25nT7DhUux32WyA&_nc_ohc=STcj09GApdoQ7kNvgERAX11&_nc_ht=scontent.fmnl3-3.fna&oh=03_Q7cD1QFnYVoUgfT2irshqQs5t-SSCFnlMJSmtE8PUPOdluHPdw&oe=66852156)
+
+![Font Viewer](https://scontent.fmnl3-1.fna.fbcdn.net/v/t1.15752-9/441908724_469265988838669_6040920077754849381_n.png?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeH5H1NIktYb3wm4vDU7KjgX8c2O5L-XqyvxzY7kv5erKwEYsqEYlJi87F-NnCTEE-Jkw11p5tFK5L0Ewo95mB4K&_nc_ohc=oWUDRXvXSHAQ7kNvgHGfdFK&_nc_ht=scontent.fmnl3-1.fna&oh=03_Q7cD1QFkrymJlNtJ8TTCJjXvsdMp6w6dyaMmd867Bzgmoma1og&oe=66851371)
 
 ![Code Snippet & Collection Example](https://scontent.fmnl33-3.fna.fbcdn.net/v/t1.15752-9/441675143_1115145379600152_2618699306380728032_n.png?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=3V7-D23ayUEQ7kNvgG04LE_&_nc_ht=scontent.fmnl33-3.fna&oh=03_Q7cD1QGfKwLQ4m7ehuPn8CyGAPUSUd-MhW0DNkayp9fIxtqexw&oe=667E71C0)
 
